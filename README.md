@@ -21,7 +21,7 @@ Moment.js API
 
 Weather Dashboard Image
 
-![demo.gif](./assets/image/demo.png)
+![demo.gif](./assets/image/Demo.png)
 
 Weather Dashboard Demo
 
