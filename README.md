@@ -10,12 +10,12 @@ UV Index will be accompanied by a color indicating the severity of the index. Fa
 Previous searches are saved in localStorage and the five (5) most recent searches are available as buttons in order for easy access and re-searching of weather and forecasts
 
 # Built With
-HTML
-CSS
-Javascript
-Open Weather APIs - Current Weather Data, UV Index and 5 day/ 3 Hour Forecast
-Bootstrap API
-Moment.js API
+* HTML
+* CSS
+* Javascript
+* Open Weather APIs - Current Weather Data, UV Index and 5 day/ 3 Hour Forecast
+* Bootstrap API
+* Moment.js API
 
 # Website
 https://andreas3093.github.io/Weather-Dashboard/
